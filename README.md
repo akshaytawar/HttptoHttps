@@ -14,4 +14,11 @@ Command : keytool -genkeypair -alias akshaycert(shortNameForCertificate) -keyalg
                maxThreads="150" SSLEnabled="true" scheme="https" secure="true"
                clientAuth="false" sslProtocol="TLS" 
 	       keystoreFile="C:\.......\akshay.cert" keystorePass="pass"/>
+                 
+  Case 2) :
+  
+  4) when we type http://www.google.com then it will redirect automatically to https://www.goole.com. To do so we to add security-constratint element to web.xml.
+  
+	       
+	      
 	
