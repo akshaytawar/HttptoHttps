@@ -17,7 +17,7 @@ Command : keytool -genkeypair -alias akshaycert(shortNameForCertificate) -keyalg
                  
   Case 2) :
   
-  4) when we type http://www.google.com then it will redirect automatically to https://www.goole.com. To do so we to add security-constratint element to web.xml.
+  4) when we type http://www.google.com or http://www.facebook.com then it will redirect automatically to https://www.goole.com or https://www.facebook.com. To do so we to add security-constratint element to web.xml.
   
 	       
 	      
